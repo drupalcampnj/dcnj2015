@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.drupalcampnj.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp NJ - Drupal Development</title>
+ <link>https://www.drupalcampnj.org/session-tracks-drupalcamp-nj-2015/drupal-development</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Drupal + CRM:  Why, What, and How</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drupal-crm-why-what-and-how</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal is a powerful content management system out of the box, but it requires additional thought and effort to leverage it to manage relationships with contacts.&lt;/p&gt;
+
+&lt;p&gt;We will discuss various ways of using Drupal with contact relationship management solutions, both within Drupal itself and through integrations with third-party applications like CiviCRM, Salesforce.com, and others. &amp;nbsp;We will discuss examples of how CRM can be used to better engage site users, as well as cover the primary options available and how to deploy them. &amp;nbsp;We will also discuss considerations for planning and implementing more complex integrations.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/08Dcnj2015DrupalPlusCrm&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Aaron Bauman&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Marcus Iannozzi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Jan 2015 13:12:31 +0000</pubDate>
+ <dc:creator>Marcus Iannozzi</dc:creator>
+ <guid isPermaLink="false">511 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drupal-crm-why-what-and-how#comments</comments>
+</item>
+<item>
+ <title>Search This Site: Getting the Most Out Of Drupal&#039;s Built-In Search</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/search-site-getting-most-out-drupals-built-search</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal provides built-in search functionality that allows visitors to search across all site content by keyword. But for many use cases, the way this search works just isn&#039;t quite right. Customization is often required to tune the quality of the results and to get the search result pages looking right.&lt;/p&gt;
+
+&lt;p&gt;In this talk, you&#039;ll learn how to get the most out of Drupal&#039;s search functionality - from back-end to front-end. Topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Understanding how your content is indexed by Drupal&lt;/li&gt;
+	&lt;li&gt;How to control which content types and custom fields are searchable&lt;/li&gt;
+	&lt;li&gt;Configuring how search results are sorted&lt;/li&gt;
+	&lt;li&gt;How to theme the search results pages&lt;/li&gt;
+	&lt;li&gt;Permissions and content access considerations&lt;/li&gt;
+	&lt;li&gt;How to make Drupal also search files&lt;/li&gt;
+	&lt;li&gt;How to add automatic search keyword and spelling suggestions&lt;/li&gt;
+	&lt;li&gt;Recommended contrib modules for customizing search functionality&lt;/li&gt;
+	&lt;li&gt;Considerations for Drupal 8&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With some site configuration, a few contrib modules, some theming, and a little elbow grease, you can get Drupal search working just the way you need!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;This session was originally presented at &lt;a href=&quot;http://newdcamp.com/new-england-drupal-camp/sessions/search-site-getting-most-out-drupals-built-search&quot;&gt;New England Drupal Camp&lt;/a&gt; and has been updated and expanded.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4&gt;About The Speaker&lt;/h4&gt;
+
+&lt;p&gt;Dave Sawyer is a Solutions Architect at &lt;a href=&quot;http://www.blinkreaction.com&quot;&gt;Blink Reaction&lt;/a&gt; - a proud sponsor of DrupalCamp NJ 2015. He has 15 years experience in web development and specializes in architecting multi-site solutions. Dave is an Acquia Certified Developer and works extensively with Drupal. He has given talks at numerous Drupal conferences and camps including DrupalCon Austin, Drupaldelphia, DrupalCamp New Jersey, and NYC Camp. Previously, Dave has worked as a consultant and developer for Adobe Systems, Bloomsbury Publishing, and The Vineyard Gazette. You can follow him on Twitter at @cmsdave.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Dave Sawyer&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 22:48:27 +0000</pubDate>
+ <dc:creator>Dave Sawyer</dc:creator>
+ <guid isPermaLink="false">481 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/search-site-getting-most-out-drupals-built-search#comments</comments>
+</item>
+<item>
+ <title>Drupal 8 Development Workflow</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drupal-8-development-workflow</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you&#039;re a developer watching the progression of Drupal 8, no doubt you&#039;ve heard about the &quot;Configuration Management Initiative&quot; (CMI). If you haven&#039;t, CMI is a community effort to take all of the configuration stuff we used to store in the database in older versions of Drupal, and put it into code by default for Drupal 8. This functionality is absolutely critical to the daily operations of most Drupal shops. While almost everybody is excited about this new functionality, most of us are relatively clueless about how to actually use it. Having relaunched our own website (http://lastcallmedia.com) on Drupal 8, Last Call Media has already gone through a full site build using CMI, and we&#039;d like to share the workflow we used, as well as the tips and tricks necessary to keep everything running smoothly.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Bayliss&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 21:48:46 +0000</pubDate>
+ <dc:creator>Rob Bayliss</dc:creator>
+ <guid isPermaLink="false">441 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drupal-8-development-workflow#comments</comments>
+</item>
+<item>
+ <title>Drush Recipes: Further automate the automations!</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drush-recipes-further-automate-automations</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/ELMS_blackleaf_200x200.png?itok=G69Wk_MO&quot; width=&quot;200&quot; height=&quot;200&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;a href=&quot;https://www.drupal.org/project/drush_recipes&quot; rel=&quot;nofollow&quot;&gt;Drush recipes&lt;/a&gt;&amp;nbsp;is a simple format (json/xml/yaml you pick) that allows you to chain drush commands together in order to accomplish tasks faster, with far less packaging / deployment / scripting code then you&#039;d otherwise use. It comes with lots of commands to automatically author new recipes and has lots of flexibility in how you use them.
+
+
+&lt;p&gt;There are currently 4 major types of ingredients in any recipe:&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;A &quot;Madlib&quot; which allows you to tokenize the input of a drush command&lt;/li&gt;
+	&lt;li&gt;A reference to another drush recipe&lt;/li&gt;
+	&lt;li&gt;A drush command to execute&lt;/li&gt;
+	&lt;li&gt;A &quot;conditional&quot; that allows for users to be prompted to pick between recipes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Using these ingredient types you can easily mix, remix, reference, provide branching path logic and infinitely nest recipes for a huge block-chain of drush commands that you only typed 1 in order to execute.&lt;/p&gt;
+
+&lt;p&gt;Drush recipes has now been marked beta and is in production on many servers at Penn State. It&#039;s one of the backbone projects powering ELMSLN and I use it to quickly build, rebuild and test environments as well as clone and provide them for others.&lt;/p&gt;
+
+&lt;p&gt;In this talk you&#039;ll learn how drush recipes...&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Helps automate site builds&lt;/li&gt;
+	&lt;li&gt;Helps replace make files with a more flexible, extendible format (Drush recipes also can utilize make files!)&lt;/li&gt;
+	&lt;li&gt;Can be used in production environments to perform standardized upgrades&lt;/li&gt;
+	&lt;li&gt;Can replace hook_update_N in site deployments!&lt;/li&gt;
+	&lt;li&gt;Better manages the parts of deployment that are truely Drupal specific (so that your logic in Fabric / Jenkins / etc is less drupal specific)&lt;/li&gt;
+	&lt;li&gt;Simplify current workflows in development, testing as well as transparency of builds between teams of developers&lt;/li&gt;
+	&lt;li&gt;Ways you can potentially replace the current install profile mentality with a series of well made recipes (or build them faster in conjunction with &lt;a href=&quot;http://drupal.org/project/profiler_builder&quot;&gt;Profiler Builder&lt;/a&gt;)&lt;/li&gt;
+	&lt;li&gt;How Penn State developers are going to release a script that packages recipes in such a way that you can answer simple questions and drush recipes will build the base-line system you are looking for&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&#039;ll show:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;How easy it is to create and understand recipes via&amp;nbsp;&lt;em&gt;dwr,&lt;/em&gt;&amp;nbsp;&lt;em&gt;ddt&lt;/em&gt;&amp;nbsp;and&amp;nbsp;&lt;em&gt;dvr&lt;/em&gt;&amp;nbsp;based methods&lt;/li&gt;
+	&lt;li&gt;How we&#039;ve used Drush recipes, the&amp;nbsp;&lt;a href=&quot;http://drush.recipes/&quot; rel=&quot;nofollow&quot;&gt;drush.recipes&lt;/a&gt;&amp;nbsp;webservice and travis to help improve the accuracy and reduce complexity in testing new code in travis&lt;/li&gt;
+	&lt;li&gt;Drush recipes I use in development of new system as well as production every day to work faster and more accurately&lt;/li&gt;
+	&lt;li&gt;How you can build content types and fields directly through Drush&lt;/li&gt;
+	&lt;li&gt;How ELMSLN uses&amp;nbsp;&lt;em&gt;dr_safe_upgrade&lt;/em&gt;&amp;nbsp;and&amp;nbsp;&lt;em&gt;drup&lt;/em&gt;&amp;nbsp;to manage upgrades across an unknown number of systems&lt;/li&gt;
+	&lt;li&gt;How Drush recipes can be used to speed up new site builds&lt;/li&gt;
+	&lt;li&gt;How you can use the&amp;nbsp;&lt;em&gt;ddt&lt;/em&gt;&amp;nbsp;command to safely pull down the structure of a site and give it to someone else as a file they can &quot;replay&quot; against their own site (effectively allowing you to morph a site into another one rapidly)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: This builds on / further refines a previous presentation given at DrupalCampOhio on Drush Recipes. The slides uploaded currently will change prior to presentation time!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/vnd.ms-powerpoint&quot; src=&quot;/modules/file/icons/x-office-presentation.png&quot; /&gt; &lt;a href=&quot;https://www.drupalcampnj.org/sites/default/files/slides/drush_recipes.ppt&quot; type=&quot;application/vnd.ms-powerpoint; length=18540032&quot;&gt;drush_recipes.ppt&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;btopro&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 21:44:49 +0000</pubDate>
+ <dc:creator>btopro</dc:creator>
+ <guid isPermaLink="false">436 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drush-recipes-further-automate-automations#comments</comments>
+</item>
+<item>
+ <title>Your First Drupal 8 module</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/your-first-drupal-8-module</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This presentation will start you on your journey into Drupal 8 module development. It will show you the steps you need to take to make a simple but useful Drupal 8 module. You can checkout the module now:&amp;nbsp;&lt;a href=&quot;https://drupal.org/sandbox/tedbow/1222866&quot; rel=&quot;nofollow&quot;&gt;https://drupal.org/sandbox/tedbow/1222866&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This module is up-to-date and working&amp;nbsp;with the latest develpment changes in Drupal 8 and will be at the time of presenting(give or take a couple days).&lt;/p&gt;
+
+&lt;p&gt;Whether you are a Drupal coder wanting to learn Drupal 8 module development or are new to Drupal coding, this session will show you a practical example module. New differences in Drupal 8 will be highlighted but no previous Drupal coding experience will be assumed.&lt;/p&gt;
+
+&lt;p&gt;Some of what will be demonstrated by the module:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Creating Forms&lt;/li&gt;
+	&lt;li&gt;Creating URL Callbacks&lt;/li&gt;
+	&lt;li&gt;Creating Menu Items&lt;/li&gt;
+	&lt;li&gt;Creating your own Blocks&lt;/li&gt;
+	&lt;li&gt;Defining your own Permissions&lt;/li&gt;
+	&lt;li&gt;Letting other modules integrate with your module&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The demo module has been broken up into increasing stages of complexity from the simplest &quot;Hello World&quot; version to a fully functioning Drupal module. You can follow along during the presentation by reloading the module (git tags or source code folders) at every stage to see how the newly added functions (and php classes!) add new features to the module. The module has also been set up with comments and documentation to make it a great intro study guide for learning Drupal 8 module development after the presentation.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ted Bowman&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 19:45:01 +0000</pubDate>
+ <dc:creator>Ted Bowman</dc:creator>
+ <guid isPermaLink="false">411 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/your-first-drupal-8-module#comments</comments>
+</item>
+<item>
+ <title>How to land your Dream Drupal Job. Guaranteed!</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/how-land-your-dream-drupal-job-guaranteed</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The title of this proposed session is “How to land your Dream Drupal Job. Guaranteed…”&lt;br /&gt;
+I know that there are lots of companies that “present” something like: “Our company is hiring Drupal people…”, but this is not that kind of session.&lt;/p&gt;
+
+&lt;p&gt;What this session will cover is a step-by-step practical guide to acquiring the skills needed for your dream Drupal job and showcasing those skills.&lt;br /&gt;
+The session emphasizes on some of the considerations that are important for, and often overlooked by, Drupal developers.&lt;br /&gt;
+I will reserve time at the end of the session for discussion.&lt;/p&gt;
+
+&lt;p&gt;A little about me:&lt;br /&gt;
+I lead Drupal development on &lt;a href=&quot;https://www.edx.org/&quot;&gt;https://www.edx.org/&lt;/a&gt; project at MIT. I also teach Drupal through &lt;a href=&quot;http://drupalxcourses.com/&quot;&gt;http://drupalxcourses.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Nikhil Dubbaka&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 19:32:14 +0000</pubDate>
+ <dc:creator>Nikhil Dubbaka</dc:creator>
+ <guid isPermaLink="false">406 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/how-land-your-dream-drupal-job-guaranteed#comments</comments>
+</item>
+<item>
+ <title>8 Things to Know About Drupal 8</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/8-things-know-about-drupal-8</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Drupal community is embracing a broader technology ecosystem in Drupal 8. Building sites, writing modules, and architecting solutions with Drupal 8 are going to see changes along the same lines. Let&#039;s talk about some of the things that are changing in Drupal 8, understand why, and start thinking about what we should be learning as we approach a Drupal 8 release.&lt;/p&gt;
+
+&lt;p&gt;This session is a lightweight, developer-focused session designed to get developers and site builders talking about and imagining building and coding with Drupal 8. We will discuss just some of the new libraries, new approaches, and new concepts being introduced with Drupal 8 and how they will affect us as we start building D8 sites.&lt;/p&gt;
+
+&lt;p&gt;In this session we&#039;ll discuss:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;The story with D8 and Symfony&lt;/li&gt;
+	&lt;li&gt;New JavaScript libraries in D8&lt;/li&gt;
+	&lt;li&gt;New Drupal 8 dev concepts (services, plugins, etc)&lt;/li&gt;
+	&lt;li&gt;New core features&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Josh Benner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 16:30:58 +0000</pubDate>
+ <dc:creator>Josh Benner</dc:creator>
+ <guid isPermaLink="false">381 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/8-things-know-about-drupal-8#comments</comments>
+</item>
+<item>
+ <title>Coding for scale and sanity: Writing code you won&#039;t regret later</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/coding-scale-and-sanity-writing-code-you-wont-regret-later</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;No developer in history had enough time and enough up-front information to make perfectly scalable architecture decisions, get everything right the first time, and craft all of their code exquisitely right out of the gate. Coding is an organic process, and often one that&#039;s driven by changing requirements, dreadful deadlines, and unreliable third parties. It&#039;s a fact of our lives: you will inevitably end up writing code you&#039;re not proud of because you needed to get something done in a pinch.&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;That said, the tradeoff between speed, flexibility, and quality doesn&#039;t have to be as drastic as you might think. In this session, I will share a few methodologies and tricks for writing quick, flexible code that doesn&#039;t lock you into technical debt and doesn&#039;t require you to sacrifice your dignity as a software developer. Also included are some general tips and techniques for writing scalable code that will help future-you not hate current-you for some of the decisions you&#039;ve been making.&lt;/div&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/04Dcnj2015CodingForScaleAndSanity&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jim Keller&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 00:51:52 +0000</pubDate>
+ <dc:creator>Jim Keller</dc:creator>
+ <guid isPermaLink="false">361 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/coding-scale-and-sanity-writing-code-you-wont-regret-later#comments</comments>
+</item>
+<item>
+ <title>There&#039;s a module for that! Don&#039;t use it!</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/theres-module-dont-use-it</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;In Drupal development when you have a new need on your site you are often told &quot;&lt;em&gt;There is a module for That!&lt;/em&gt;&quot;. &amp;nbsp;While the availability of thousands of free modules on Drupal.org is great, it can lead to sites with hundreds of modules enabled. In this session we will look at ways to avoid this on your site.&lt;/p&gt;
+
+&lt;p&gt;Often contributed modules provide much more functionality then you need for any specific site. It is easy to find yourself installing a complex module when you only need a very small part of it. When this is the case you have tons of extra code running on your site that you don&#039;t need(and probably don&#039;t want)!&lt;/p&gt;
+
+&lt;p&gt;This extra code causes your site to run slower, adds the potential for bugs and conflicts with other modules, and makes your site more complex than it needs to be. &amp;nbsp;With hundreds of modules running on your site tracking down where a particular problem is coming from can be a real pain. In many cases you can replace the need to install yet another module with under 10 lines of custom code.&lt;/p&gt;
+
+&lt;p&gt;You will see some concrete examples of how a little bit of custom code can replace the need to install a module with hundreds or thousands of lines of code. For example do you want an extra View Mode for a content type? You could install &lt;a href=&quot;https://www.drupal.org/project/entity_view_mode&quot;&gt;Entity View Modes&lt;/a&gt; or just write 8 lines of code(template to be provided).&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/13Dcnj2015TheresAModuleForThatDontUseIt&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://www.drupalcampnj.org/sites/default/files/slides/dont_use_module.pdf&quot; type=&quot;application/pdf; length=4721473&quot;&gt;dont_use_module.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ted Bowman&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 01 Jan 2015 21:22:05 +0000</pubDate>
+ <dc:creator>Ted Bowman</dc:creator>
+ <guid isPermaLink="false">331 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/theres-module-dont-use-it#comments</comments>
+</item>
+<item>
+ <title>Migration strategies for Drupal 8</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/migration-strategies-drupal-8</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The migrate module is now part of core! This means that migrate is no longer a secondary option when upgrading your sites to Drupal 8, but is in fact the preferred route for upgrading. In this session we will talk about differences between the new and old systems and discuss what options you have for migrating your data into Drupal 8.&lt;/p&gt;
+
+&lt;p&gt;The strategies we will cover range from beginner-level imporiting using the user interface, to mid-tier customization, and finish off with some talk of advanced cases that will require writing code. &amp;nbsp;At the end of this session you will have the tools you need to help test the migration system and begin planning your migration to Drupal 8.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/18Dcnj2015MigrationStrategiesDrupal8_201502&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ryan Weal&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Novella Chiechi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-development&quot;&gt;Drupal Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 29 Dec 2014 22:24:22 +0000</pubDate>
+ <dc:creator>Ryan Weal</dc:creator>
+ <guid isPermaLink="false">286 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/migration-strategies-drupal-8#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.drupalcampnj.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp NJ - Theming &amp; Mobile</title>
+ <link>https://www.drupalcampnj.org/session-tracks-drupalcamp-nj-2015/theming-mobile</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Fundamentals of Front-End Ops</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/fundamentals-front-end-ops</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Front-end paradigms are shifting fast, and among the trends singled out are task automation, painless dependency management, and quicker testing. Front-end ops, a term promulgated by Alex Sexton, deals with the synthesis of all of these responsibilities and others that front-end developers today face. We&#039;ll talk about a variety of different options available for FEDs to work efficiently and iteratively, such as Yeoman, Grunt, Gulp, Bower, and other lesser-known projects.&lt;/p&gt;
+
+&lt;p&gt;Here&#039;s what we&#039;ll cover:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Why ops? Automation generates consistency&lt;/li&gt;
+	&lt;li&gt;Why front-end ops? Roles, rationales, workflow&lt;/li&gt;
+	&lt;li&gt;Getting started: Scaffolding and setup&lt;/li&gt;
+	&lt;li&gt;Automation: Grunt and Gulp&lt;/li&gt;
+	&lt;li&gt;Linting: Coding standards&lt;/li&gt;
+	&lt;li&gt;CSS: Preprocessing and aggregation&lt;/li&gt;
+	&lt;li&gt;JavaScript: Minification and concatenation&lt;/li&gt;
+	&lt;li&gt;CSS regressions&lt;/li&gt;
+	&lt;li&gt;Testing rendering engines and devices (GhostLab)&lt;/li&gt;
+	&lt;li&gt;Performance testing&lt;/li&gt;
+	&lt;li&gt;Developer tools for debugging&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This session assumes some familiarity with the command line.&lt;/p&gt;
+
+&lt;h3&gt;About me&lt;/h3&gt;
+
+&lt;p&gt;Preston So has designed websites since 2001 and built them in Drupal since 2007. He is a Software Engineer at Time Inc. and also co-founded the Southern Colorado User Group. Since 2008, Preston has spoken at conferences and camps across the U.S. and on two continents (most recently DrupalCon Amsterdam 2014 and DrupalCon Portland 2013) on topics such as design, theming, usability, responsive design, and cutting-edge code.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/03Dcnj2015FundamentalsFrontEndOps&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Preston So&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/theming-mobile&quot;&gt;Theming &amp;amp; Mobile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 23:07:15 +0000</pubDate>
+ <dc:creator>Preston So</dc:creator>
+ <guid isPermaLink="false">496 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/fundamentals-front-end-ops#comments</comments>
+</item>
+<item>
+ <title>The Future of HTML and CSS</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/future-html-and-css</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;In the face of bewildering advancements in the front end, it&#039;s useful to take a step back and take stock of where the fundamentals are headed: namely HTML and CSS. These two lowly languages have been largely left by the wayside as we front-enders scream ahead with abstractions and frameworks. But where are HTML and CSS headed exactly? This session examines progress working groups have made to the existing standards, techniques that are already or will soon be available for developers, and some of the proposals being floated around the standards.&lt;/p&gt;
+
+&lt;p&gt;We&#039;ll devote our attention to the following questions: How far have HTML and CSS come? What upcoming techniques or proposed additions are most relevant to us as Drupalists? What does the future of HTML and CSS look like in terms of cross-browser compatibility, programmatic approaches, and more extensive possibilities? What are Web Components and the Shadow DOM? How can we prepare for the approaching future of HTML and CSS?&lt;/p&gt;
+
+&lt;p&gt;Just some of what we will delve into:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;A brief retrospective: Where are we now?&lt;/li&gt;
+	&lt;li&gt;The current rendering engine landscape&lt;/li&gt;
+	&lt;li&gt;Vendor prefixes: Dead but not extinct&lt;/li&gt;
+	&lt;li&gt;New selectors, combinators, and pseudo-classes&lt;/li&gt;
+	&lt;li&gt;Flexbox, Grid, and other layout&lt;/li&gt;
+	&lt;li&gt;CSS backgrounds, borders, and gradients&lt;/li&gt;
+	&lt;li&gt;CSS variables and extensions&lt;/li&gt;
+	&lt;li&gt;Web Components and the Shadow DOM&lt;/li&gt;
+	&lt;li&gt;Custom elements, HTML imports, and CSS scope&lt;/li&gt;
+	&lt;li&gt;General implications for Drupal&lt;/li&gt;
+	&lt;li&gt;... and much more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This session is geared toward front-end developers, themers, and designers interested in a robust crash course in where HTML and CSS are headed in the short and long term. This session also assumes an advanced understanding of modern HTML and CSS. Though some of these techniques are still unavailable for general use, this session will give you the tools to engage in the discussion and to plan for the future of markup and style.&lt;/p&gt;
+
+&lt;p&gt;Note: This session is an updated version of the DrupalCon Amsterdam and BADCamp 2014 session The Future of HTML and CSS. It is also a sequel to Frontiers of CSS (BADCamp 2012, DrupalCamp NJ 2013, DrupalCamp CT 2012).&lt;/p&gt;
+
+About me
+
+&lt;p&gt;Preston So has designed websites since 2001 and built them in Drupal since 2007. He is a Software Engineer at Time Inc. and also co-founded the Southern Colorado User Group. Since 2008, Preston has spoken at conferences and camps across the U.S. and on two continents (most recently DrupalCon Amsterdam 2014 and DrupalCon Portland 2013) on topics such as design, theming, usability, responsive design, and cutting-edge code.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Preston So&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/theming-mobile&quot;&gt;Theming &amp;amp; Mobile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 23:06:30 +0000</pubDate>
+ <dc:creator>Preston So</dc:creator>
+ <guid isPermaLink="false">491 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/future-html-and-css#comments</comments>
+</item>
+<item>
+ <title>Designing in Motion: Bridging the Gaps in Your Design Process</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/designing-motion-bridging-gaps-your-design-process</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Static mockups and the processes behind them have flaws that get revealed when designing responsively. Timelines, complexity and budgets are challenged with each responsive breakpoint defined. Interactivity is often unclear, undocumented, and sometimes unknown. The way in which we design needs to change. We need to rethink our tools and the artifacts they create. We need to go faster, do more, reveal more, experience more and yet also adjust quickly. We need to design in motion.&lt;/p&gt;
+
+&lt;p&gt;This session will look at the different aspects of designing in motion: the expansion of design roles, designing in the browser, and acceleration via Drupal compatible toolsets, as well as what this means for your Drupal project’s budget, resource allocation, and client expectations. Some questions that will be answered during this session include:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;What is responsive design and how does it influence Drupal decisions?&lt;/li&gt;
+	&lt;li&gt;How can the design process be accelerated, while still designing responsively?&lt;/li&gt;
+	&lt;li&gt;What are the positive effects this shift in process will have on your Drupal project?&lt;/li&gt;
+	&lt;li&gt;How can designing in motion leave you with a more satisfied client?&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Amanda Konopko&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/theming-mobile&quot;&gt;Theming &amp;amp; Mobile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 22:03:49 +0000</pubDate>
+ <dc:creator>Amanda Konopko</dc:creator>
+ <guid isPermaLink="false">471 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/designing-motion-bridging-gaps-your-design-process#comments</comments>
+</item>
+<item>
+ <title>Twig and Drupal 8&#039;s new theme layer</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/twig-and-drupal-8s-new-theme-layer</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal 8 has changed the default template engine from PHPTemplate to Twig. This is big news for themers and developers alike. This session will go over Twig basics and also changes to Drupal&#039;s overall theme layer strategy.&lt;/p&gt;
+
+&lt;p&gt;This session will go over:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;What has changed in the theme layer&lt;/li&gt;
+	&lt;li&gt;Basics of Twig syntax&lt;/li&gt;
+	&lt;li&gt;Drupal specific Twig functionality&lt;/li&gt;
+	&lt;li&gt;How the new theme layer helps themers&lt;/li&gt;
+	&lt;li&gt;Security&lt;/li&gt;
+	&lt;li&gt;Debugging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;davidhernandez&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/theming-mobile&quot;&gt;Theming &amp;amp; Mobile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 04 Jan 2015 17:55:29 +0000</pubDate>
+ <dc:creator>davidhernandez</dc:creator>
+ <guid isPermaLink="false">346 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/twig-and-drupal-8s-new-theme-layer#comments</comments>
+</item>
+<item>
+ <title>Writing maintainable and performant Javascript for Drupal</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/writing-maintainable-and-performant-javascript-drupal</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Javascript is gaining the power and becoming more and more popular nowadays.&amp;nbsp;Amount of JS features is drastically growing&amp;nbsp;on average site. To be able to successfully extend your old code it should be written according to Drupal best practices.&lt;/p&gt;
+
+&lt;p&gt;In this session I will show and explain you:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;How to avoid common Javascript pitfalls in Drupal&lt;/li&gt;
+	&lt;li&gt;Techniques for writing maintainable Javascript in a Drupal way&lt;/li&gt;
+	&lt;li&gt;What reduces your JS performance and what to do with that&lt;/li&gt;
+	&lt;li&gt;Ways to process Javascript on Drupal side&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Disclaimer: This session affects only Drupal module and theme JS development. Single page applications and native mobile applications mostly don&#039;t use Drupal core JS.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/11Dcnj2015MaintainablePerformantJavascript&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://www.drupalcampnj.org/sites/default/files/slides/maintainable%20JS.pdf&quot; type=&quot;application/pdf; length=1493470&quot;&gt;maintainable JS.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Siarhei Semashka&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/theming-mobile&quot;&gt;Theming &amp;amp; Mobile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 03 Jan 2015 20:18:49 +0000</pubDate>
+ <dc:creator>Siarhei Semashka</dc:creator>
+ <guid isPermaLink="false">341 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/writing-maintainable-and-performant-javascript-drupal#comments</comments>
+</item>
+<item>
+ <title>Drupal 8 Theming - Exploring Twig and Other Frontend Changes</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drupal-8-theming-exploring-twig-and-other-frontend-changes</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal 8 makes use of Twig as it&#039;s new template engine and also provides a simpler theme layer. In this session I’ll explore what Twig has to offer, as well as talk about some Drupal 7 theme&amp;nbsp;problems and the solutions for them in Drupal 8. The goal of this session is to illustrate how Drupal 8 will improve the experience of themers and frontend developers.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/07Dcnj2015Drupal8ThemingTwig&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://www.drupalcampnj.org/sites/default/files/slides/Drupal8-Themeing_013115.pdf&quot; type=&quot;application/pdf; length=1912147&quot;&gt;Drupal8-Themeing_013115.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;crowdcg&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/theming-mobile&quot;&gt;Theming &amp;amp; Mobile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 31 Dec 2014 17:42:48 +0000</pubDate>
+ <dc:creator>crowdcg</dc:creator>
+ <guid isPermaLink="false">326 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drupal-8-theming-exploring-twig-and-other-frontend-changes#comments</comments>
+</item>
+</channel>
+</rss>

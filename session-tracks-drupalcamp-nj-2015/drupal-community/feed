@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.drupalcampnj.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp NJ - Drupal Community</title>
+ <link>https://www.drupalcampnj.org/session-tracks-drupalcamp-nj-2015/drupal-community</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Keynote: How to Train Your Manager</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/keynote-how-train-your-manager</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We are very excited to announce our 2015 keynote speaker, Paul M. Jones!&lt;/p&gt;
+
+&lt;p&gt;One definition of insanity is &quot;doing the same thing over and over, expecting different&amp;nbsp;results.&quot;&amp;nbsp;In his talk,&amp;nbsp;&lt;em&gt;&lt;strong&gt;How to Train Your Manager&lt;/strong&gt;&lt;/em&gt;, Paul will discuss how organizations keep treating developers poorly,&amp;nbsp;especially by demanding overtime, and why it is crazy for developers to expect their&amp;nbsp;organizations to change. Paul will show how you can change the way your organization treats&amp;nbsp;you, to your own benefit and (hopefully) the benefit of the organization.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn btn-warning&quot; href=&quot;/node/261&quot;&gt;About Paul&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/01Dcnj2015Keynote&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;355&quot; scrolling=&quot;no&quot; src=&quot;//www.slideshare.net/slideshow/embed_code/44109043&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; width=&quot;425&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/pmjones88/how-to-train-your-manager&quot; target=&quot;_blank&quot; title=&quot;How To Train Your Manager&quot;&gt;How To Train Your Manager&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/pmjones88&quot; target=&quot;_blank&quot;&gt;pmjones88&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;pmjones&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-community&quot;&gt;Drupal Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 15 Jan 2015 19:34:46 +0000</pubDate>
+ <dc:creator>crowdcg</dc:creator>
+ <guid isPermaLink="false">556 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/keynote-how-train-your-manager#comments</comments>
+</item>
+<item>
+ <title>Getting By</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/getting-by</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;In this session, we&#039;ll discuss mental health in the workplace, explaining the challenges and experiences of working in technology while also suffering from a mental illness. While we are doing a better job of addressing physical health and fitness in the workplace, with gym memberships and fitness months becoming more standard for workplaces, mental health remains woefully neglected.&lt;/p&gt;
+
+&lt;p&gt;We&#039;ll be covering:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt; What it&#039;s like to live with a mental illness and how it can impact your work.&lt;/li&gt;
+	&lt;li&gt; The business, cultural, and personal impacts that mental health has on your company.&lt;/li&gt;
+	&lt;li&gt; Simple first steps to begin promoting mental health awareness in your organization.We&#039;ll also have an open question and answer format at the end where Paddy will answer any questions about living with a mental illness. Attendees are encouraged, but not required, to share their own experiences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Paddy is a software engineer at DramaFever, where he writes in Go and shares animated GIFs. He speaks about mental illness at conferences and meetups as part of EngineYard&#039;s Prompt program.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Paddy Foran&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-community&quot;&gt;Drupal Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 23:58:23 +0000</pubDate>
+ <dc:creator>Paddy Foran</dc:creator>
+ <guid isPermaLink="false">501 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/getting-by#comments</comments>
+</item>
+<item>
+ <title>The Singularity: using Drupal &amp; DevOps for Activism</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/singularity-using-drupal-devops-activism</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;There is no greater game changer then technology. While most see technology as a tool to accomplish a task or a trivial decision point, I view it quite differently. Technology can be a weapon or a gift, a blessing or a curse. Those that utilize information technology to accomplish tasks have their entire lives transformed by the way at which they command it. Poor user experience leads to poor quality of life that can be seen in hospitals, government, and other institutions where technology can either hinder or enhance processes involving large groups of people.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Don&#039;t believe me? Ok, Build a site to the complexity of Drupal but yourself, from stock HTML/PHP/Mysql/CSS. (you no longer can in a reasonable amount of time)&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Ok, that&#039;s a bit extreme, how bout just this task: See the time it takes to take a Drupal site and build it by going to Drupal.org and downloading all the modules you need, putting them in the right place and then SFTP&#039;ing them up to a server. Test it in one place, then manually get it somewhere else by SFTPing it there. You can, it&#039;s just needlessly painful; the monkey pushing buttons on a screen, copying and pasting files, and seeing what happens.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Now do that same task with Drush. Now do that same task with Drush recipes in recording mode, then play it back. Destroy the system and deploy it hundreds of times over in Travis CI or provision between systems when things &quot;just work&quot; via Ansible or any other number of formats. Automation is changing society and at an increasingly greater scale day after day.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;When you can do the same amount of work in seconds instead of minutes is one thing, but when you can do the work of years in seconds, that&#039;s something new. An entire sector can emerge from the transformative pace of automation specialists (DevOps). If you can work infinitely faster, you can change and make decisions just as quickly.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is the Singularity.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;A time in which technology is able to change so rapidly that we as humans can&#039;t keep up with it. &quot;Program or be the Programmed&quot;. We truly live in amazing times where everything is awesome and no one seems to realize it because they complain about having to manually do.. anything.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;This is a non-technical talk but a philosophical. I will argue that as long as you use DevOps practices and Drupal and you make technology irrelevant (through automation) that all you have left is philosophy; how we go about applying said technology (because creation and deployment will be increasingly more automated). A conversation rather then a lecture, framed around a major institution that has been transformed through a principle of Technological Activism that I often refer to as Information Altruism (IA). IA is the notion that giving things away has the ability to alter the playing field of industries and institutions.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;This isn&#039;t really a talk about Drupal @ PSU or ELMSLN, but it helps explain the motivations that bring me toward wanting to make both the best they can be. Life is about more then just work, it’s about making this a better planet. Philosophically applied automation and activist mentalities are how we can make the world a better place.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It’s not some hokey BS&lt;/em&gt;;&amp;nbsp;&lt;strong&gt;it’s already happening.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+Related video / postings
+
+&lt;p&gt;Drupal, Singularity, Digital Activism and Saving our Institutions -&lt;a href=&quot;https://drupal.psu.edu/content/drupal-singularity-digital-activism-and-saving-our-institutions&quot; rel=&quot;nofollow&quot;&gt;https://drupal.psu.edu/content/drupal-singularity-digital-activism-and-s...&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Products are Ephemeral, Movements are Eternal -&lt;a href=&quot;http://btopro.wordpress.com/2013/09/25/products-are-ephemeral-movements-are-eternal/&quot; rel=&quot;nofollow&quot;&gt;http://btopro.wordpress.com/2013/09/25/products-are-ephemeral-movements-...&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://btopro.net/post/transforming-industry-through-information-altruism&quot; rel=&quot;nofollow&quot;&gt;http://btopro.net/post/transforming-industry-through-information-altruism&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://btopro.net/post/marketplace-griefing-oss-disrupt-industries&quot; rel=&quot;nofollow&quot;&gt;http://btopro.net/post/marketplace-griefing-oss-disrupt-industries&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://btopro.net/post/cultural-transformation-through-information-technology&quot; rel=&quot;nofollow&quot;&gt;http://btopro.net/post/cultural-transformation-through-information-techn...&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Note: This was previously given at DrupalCampOhio and went over really well :)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/vnd.ms-powerpoint&quot; src=&quot;/modules/file/icons/x-office-presentation.png&quot; /&gt; &lt;a href=&quot;https://www.drupalcampnj.org/sites/default/files/slides/singularity.ppt&quot; type=&quot;application/vnd.ms-powerpoint; length=45029516&quot;&gt;singularity.ppt&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;btopro&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-community&quot;&gt;Drupal Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 22:00:21 +0000</pubDate>
+ <dc:creator>btopro</dc:creator>
+ <guid isPermaLink="false">466 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/singularity-using-drupal-devops-activism#comments</comments>
+</item>
+<item>
+ <title>How to contribute to Drupal ... and not just code</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/how-contribute-drupal-and-not-just-code</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;There are many ways to contribute to Drupal. The most obvious thing people think of is contributing patches to Drupal core, but there are many ways to help. This session&amp;nbsp;will go over how developers and themers can help contribute to Drupal core and contributed projects. It will also go over the non-technical work people can do to contribute to the Drupal project and the Drupal community.&lt;/p&gt;
+
+&lt;p&gt;This session will go over the following:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Finding resources&lt;/li&gt;
+	&lt;li&gt;Getting comfortable with Drupal&#039;s workflow&lt;/li&gt;
+	&lt;li&gt;Find and provide support&lt;/li&gt;
+	&lt;li&gt;Contribute more than just code&lt;/li&gt;
+	&lt;li&gt;Using the expertise you already have&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;davidhernandez&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-community&quot;&gt;Drupal Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 04 Jan 2015 19:07:50 +0000</pubDate>
+ <dc:creator>davidhernandez</dc:creator>
+ <guid isPermaLink="false">351 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/how-contribute-drupal-and-not-just-code#comments</comments>
+</item>
+<item>
+ <title>Making Drupal Cool Again</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/making-drupal-cool-again</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/angie-cool.jpg?itok=uR6e8lDU&quot; width=&quot;480&quot; height=&quot;320&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This session will focus on addressing a growing trend of losing Drupal developers, or at least their interest, because of the cool factor of up and coming competing technologies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why Drupal seems un-cool&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As technologists, we are always looking out for the “next big thing” partially because of perceived advancements, but often simply because it is different/new/exciting. While each major version release of Drupal has seen extensive advancements, it’s still PHP at its core. Theres a fairly large momentum around the MEAN stack, frameworks like Django or even languages like Go. While not necessarily “new,” in many ways, we find them to be different and exciting because of the additional challenges posed by uncertain big performance and scalability issues - keeping their interests piqued.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opportunities&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We have all made a large investment in Drupal, whether financial or personal time over the years. Continuing to ensure that our platform stays cool in the eyes of our development teams and colleagues can be done in a number of ways from evangelizing all the dev tools to embracing “Headless Drupal” initiatives. I will outline my ideas, many currently in practice at NorthPoint Digital, during the session.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;David Dagino&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Matthew Dorman&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/drupal-community&quot;&gt;Drupal Community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 31 Dec 2014 17:29:35 +0000</pubDate>
+ <dc:creator>Matthew Dorman</dc:creator>
+ <guid isPermaLink="false">321 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/making-drupal-cool-again#comments</comments>
+</item>
+</channel>
+</rss>

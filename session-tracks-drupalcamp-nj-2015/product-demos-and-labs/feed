@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.drupalcampnj.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp NJ - Product Demos and Labs</title>
+ <link>https://www.drupalcampnj.org/session-tracks-drupalcamp-nj-2015/product-demos-and-labs</link>
+ <description>Sessions that are more hands-on and interactive either as emonstrations of specific products, or a specific techniques or technologies.
+</description>
+ <language>en</language>
+<item>
+ <title>Workshop: Getting Started with Local Development</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/workshop-getting-started-local-development</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;When you need to make an update to your site, do you do it right on the live site? Are you scared to upgrade your Drupal site for fear that it will break? Maybe you&#039;re heard about local development, but you just don&#039;t know where to start. This session will be an introduction to various options you have for developing a Drupal site on your own computer.&lt;/p&gt;
+
+&lt;p&gt;Bring your laptop! We will spend the bulk of this session getting your own environment up and running. Check out the slides below, and feel free to get a head start. Come with questions!&lt;/p&gt;
+
+&lt;p&gt;Slides: &lt;a href=&quot;http://wheatpenny.github.io/localdev&quot;&gt;http://wheatpenny.github.io/localdev&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;wheatpenny&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/product-demos-and-labs&quot;&gt;Product Demos and Labs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 04 Jan 2015 22:06:38 +0000</pubDate>
+ <dc:creator>wheatpenny</dc:creator>
+ <guid isPermaLink="false">356 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/workshop-getting-started-local-development#comments</comments>
+</item>
+<item>
+ <title>Acquia Workflows and Wins for Drupal Developers and Site Builders</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/acquia-workflows-and-wins-drupal-developers-and-site-builders</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Acquia calls itself the &quot;Enterprise Guide to Drupal&quot; but yeah, we know---a lot of Drupal developers don&#039;t think we offer anything of value to them. In fact, the Acquia Network provides tremendous value to Drupal developers and site builders, we just aren&#039;t always that great at explaining it. In this session, I&#039;ll describe and demo Acquia&#039;s developer-focused products:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Acquia Insight provides clear, actionable recommendations about your Drupal site&#039;s configuration, tuning, SEO, and security, both before and after it goes live. The site may be perfectly set up the day it launches, but Insight monitors and alerts you about problems as the site changes over time.&lt;/li&gt;
+	&lt;li&gt;Acquia Cloud simplifies Drupal site development and production hosting. It provides development, staging, and production environments, with integrated workflow tools for automating tasks, running tests, and deploying your site. Cloud offers automatic backups and restores, 24/7 monitoring, easy SSH setup, SSH shell access and complete Drush support, and more.&lt;/li&gt;
+	&lt;li&gt;Acquia Search provides turn-key Drupal-integrated faceted search powered by ApacheSolr. Help your visitors find the content they are looking for, remove the search processing load from your own server(s), and eliminate all the hassle of managing it yourself.&lt;/li&gt;
+	&lt;li&gt;All three of these services are available for free for non-production sites.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Kris Vanderwater&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/product-demos-and-labs&quot;&gt;Product Demos and Labs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Jan 2015 02:07:09 +0000</pubDate>
+ <dc:creator>Kris Vanderwater</dc:creator>
+ <guid isPermaLink="false">586 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/acquia-workflows-and-wins-drupal-developers-and-site-builders#comments</comments>
+</item>
+<item>
+ <title>DevShop: Open Source Drupal Cloud Hosting</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/devshop-open-source-drupal-cloud-hosting</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/_20141231_105504.JPG?itok=msTEXlZP&quot; width=&quot;334&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;SLIDES:&lt;/strong&gt;&amp;nbsp;&lt;a href=&quot;http://jonpugh.github.io/devshop-jerseycamp-2015&quot;&gt;http://jonpugh.github.io/devshop-jerseycamp-2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DevShop can now run Behat Tests on your sites automatically, and gives visual feedback of the results in the interface.&lt;/p&gt;
+
+&lt;p&gt;In this session we&#039;ll show you how you can spin up your own continous testing server in as little time as it takes to present this session, and how behat allows you to integrate more people into your testing (and test writing) process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About DevShop&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DevShop is open source cloud hosting for Drupal.&lt;/p&gt;
+
+&lt;p&gt;DevShop is functionally equivalent to Drupal cloud hosting services like Acquia Cloud and Pantheon, but you can run it on your own servers, and you can extend it as easily as Drupal itself. &amp;nbsp;You can use DevShop to host extra environments for sites hosted on Acquia Cloud and Pantheon.&lt;/p&gt;
+
+&lt;p&gt;With a backend powered by Drush, and a slick front-end built in Drupal, DevShop is familiar to anyone who knows Drupal.&lt;/p&gt;
+
+&lt;p&gt;We&#039;ve recently redesigned all of DevShop, making it easier to use than ever. &amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;With &quot;Deploy Hooks&quot; you can run tasks after updating code. &amp;nbsp;Built in deploy hooks include clearing caches, running updates and reverting features, but you can add your own to each site using drush functions. &amp;nbsp;Deploy hooks can trigger test runs. DevShop now has support for running Acquia Cloud Hooks.&lt;/p&gt;
+
+&lt;p&gt;During the duration of this talk we will install DevShop from scratch on a fresh Ubuntu server, then build, test and deploy a drupal site with ease. &amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jon Pugh&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/product-demos-and-labs&quot;&gt;Product Demos and Labs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 31 Dec 2014 15:14:05 +0000</pubDate>
+ <dc:creator>Jon Pugh</dc:creator>
+ <guid isPermaLink="false">316 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/devshop-open-source-drupal-cloud-hosting#comments</comments>
+</item>
+<item>
+ <title>Build, Launch, Run |Happy DevOps w/ Pantheon</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/build-launch-run-happy-devops-w-pantheon</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/keep-calm-and-get-pantheon.png?itok=6wQBboIS&quot; width=&quot;411&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;OK. Let me ask you a question...&lt;br /&gt;
+&amp;nbsp; Q: What good is GIT version control and a 3-STAGE development process if it&#039;s a pain to set up and manage?&lt;br /&gt;
+&amp;nbsp; A: Zero, Zilch NODDA! Because your team can&#039;t use it and if they try it only gets in the way of actually building the project at hand. :-(&lt;/p&gt;
+
+&lt;p&gt;Does Dev-Ops have to be that hard?&lt;br /&gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOPE! ;-)&lt;/p&gt;
+
+&lt;p&gt;Join me as we take a good, hard look at PANTHEON, the Best Practices, Dev-Ops solution that is taking the Drupal landscape by storm.&lt;br /&gt;
+What you will &lt;strong&gt;NOT&lt;/strong&gt; learn:&lt;br /&gt;
+&amp;nbsp;Jenkins, Linux, Amazon AS3, Varnish, Redis, Server Maintenance, Tuning System files, etc. [&lt;em&gt;PANTHEON manages all that for you!&lt;/em&gt;]&lt;br /&gt;
+What you will learn:&lt;br /&gt;
+&amp;nbsp; How to set up a &lt;strong&gt;FREE&lt;/strong&gt;, &lt;strong&gt;FAST&lt;/strong&gt;, and &lt;strong&gt;FUNCTIONAL&lt;/strong&gt; Drupal SandBox on the Pantheon platform&lt;br /&gt;
+&amp;nbsp; How to implement &lt;strong&gt;SECURITY&lt;/strong&gt; to keep prying eyes off of your Dev site&lt;br /&gt;
+&amp;nbsp; How to &lt;strong&gt;REPLICATE&lt;/strong&gt; the Dev site across the Test and Live environments&lt;br /&gt;
+&amp;nbsp; How to &lt;strong&gt;PULL&lt;/strong&gt; the code down from Dev to your local machine [With either GIT or SFTP]&lt;br /&gt;
+&amp;nbsp; How to &lt;strong&gt;TRACK&lt;/strong&gt; changes in Dev and deploy them to Test and Live&lt;br /&gt;
+&amp;nbsp; How to &lt;strong&gt;SYNCH&lt;/strong&gt; the database from Live down to Test and Dev&lt;br /&gt;
+&amp;nbsp; How to make sure you&#039;re taking advantage of Varnish for &lt;strong&gt;SPEEDY&lt;/strong&gt; page loads [Very Easy To Do!]&lt;br /&gt;
+&amp;nbsp; How to easily cover your ar$e by taking &lt;strong&gt;BACKUPS&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;
+&amp;nbsp; How to &lt;strong&gt;ADD&lt;/strong&gt; Team Members to your Pantheon dashboard&lt;/p&gt;
+
+&lt;p&gt;This will be a practical, hands-on experience. Bring your laptop and follow along.&amp;nbsp;&lt;br /&gt;
+We&#039;ll go at a pace where you can ask questions and keep up!&lt;br /&gt;
+When we&#039;re done you will understand why so many shops and independant developers have chosen to Build, Launch, and Run with Pantheon!&lt;br /&gt;
+&lt;br /&gt;
+Questions about this session, DougVann, or Drupal in general? &lt;a href=&quot;http://dougvann.com/contact?src=nj&quot;&gt;Contact Me&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Doug Vann&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/product-demos-and-labs&quot;&gt;Product Demos and Labs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 09 Dec 2014 13:44:30 +0000</pubDate>
+ <dc:creator>Doug Vann</dc:creator>
+ <guid isPermaLink="false">196 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/build-launch-run-happy-devops-w-pantheon#comments</comments>
+</item>
+</channel>
+</rss>

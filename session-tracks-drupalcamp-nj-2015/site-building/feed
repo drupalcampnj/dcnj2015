@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.drupalcampnj.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp NJ - Site Building</title>
+ <link>https://www.drupalcampnj.org/session-tracks-drupalcamp-nj-2015/site-building</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SEO Awesomeness for Drupal Sites</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/seo-awesomeness-drupal-sites</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SEO (Search Engine Optimization) is a critical part of running a successful website and involves a lot more than simply updating some page titles and meta descriptions. Yet despite the importance of good SEO, many sites often lack essential SEO configurations. Additionally, out-of-the-box Drupal sites typically do not provide all of the tools and configuration options needed to implement SEO best practices.&lt;/p&gt;
+
+&lt;p&gt;In this session, we&#039;ll review SEO best practices relative to Drupal development and will show how you can improve your SEO with some relatively simple configuration changes. We&#039;ll also review a number of specific techniques and contributed modules that you can use to improve the way search engines see your site.&lt;/p&gt;
+
+&lt;p&gt;Topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Understanding Meta Tags (and which ones are important)&lt;/li&gt;
+	&lt;li&gt;How to include Meta Tag content in a publishing workflow&lt;/li&gt;
+	&lt;li&gt;Leveraging Twitter Cards and Open Graph tags to make your content more sharable&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Tips for using Google Webmaster Tools and Bing Webmaster Tools&lt;/li&gt;
+	&lt;li&gt;Tips for configuring Drupal menus, breadcrumbs, and URL paths&lt;/li&gt;
+	&lt;li&gt;Search engine-friendly redirects and Canonical URLs&lt;/li&gt;
+	&lt;li&gt;XML Sitemap and robots.txt configurations&lt;/li&gt;
+	&lt;li&gt;Recommended contributed modules&lt;/li&gt;
+	&lt;li&gt;Recommended analysis and testing tools&lt;/li&gt;
+	&lt;li&gt;SEO Considerations for Drupal 8&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;About the Speaker&lt;/h4&gt;
+
+&lt;p&gt;Dave Sawyer is a Solutions Architect at&amp;nbsp;&lt;a href=&quot;http://www.blinkreaction.com/&quot;&gt;Blink Reaction&lt;/a&gt;&amp;nbsp;- a proud sponsor of DrupalCamp NJ 2015. He has 15 years experience in web development and specializes in architecting multi-site solutions. Dave is an Acquia Certified Developer and works extensively with Drupal. He has given talks at numerous Drupal conferences and camps including DrupalCon Austin, Drupaldelphia, DrupalCamp New Jersey, and NYC Camp. Previously, Dave has worked as a consultant and developer for Adobe Systems, Bloomsbury Publishing, and The Vineyard Gazette. You can follow him on Twitter at @cmsdave.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/15Dcnj2015SeoAwesomenessForDrupal&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Dave Sawyer&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 22:59:39 +0000</pubDate>
+ <dc:creator>Dave Sawyer</dc:creator>
+ <guid isPermaLink="false">486 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/seo-awesomeness-drupal-sites#comments</comments>
+</item>
+<item>
+ <title>Entities, Bundles, and Fields: You need to understand this!</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/entities-bundles-and-fields-you-need-understand</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The concepts of Entities, Bundles and Fields underlay much of Drupal 7 and Drupal 8 functionality. Though Drupal sitebuilders and developers understand the concept of Fields, Entity Types and Bundles are often misunderstood or even unknown to those new(or not so new) to Drupal. Understanding these concepts will make you a better Site Builder and give you a better understanding of how many popular contributed modules work.&lt;/p&gt;
+
+&lt;p&gt;In the first section of this session we will delve into what Entity types, Bundles, and Fields actually are in Drupal 7 and 8. We will look at what is going on under the hood and how Drupal core is using these features. &amp;nbsp;We will examine how this is stored in the database&lt;/p&gt;
+
+&lt;p&gt;We will then look at what contrib modules are doing to take advantage of this architecture. Some of the modules that we will look at are:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Entity API&lt;/li&gt;
+	&lt;li&gt;Profile2&lt;/li&gt;
+	&lt;li&gt;Field Collection&lt;/li&gt;
+	&lt;li&gt;Entityforms&lt;/li&gt;
+	&lt;li&gt;Drupal Commerce&lt;/li&gt;
+	&lt;li&gt;Organic Groups&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will look at what new Entity Types and Bundles these modules define or how they add functionality to existing Entity Types by defining new Fields. &amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Understanding these concepts and how they are being used in different modules will give you a better perspective on evaluating different contrib modules.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Drupal 8 has made even more things entities. We look at some of the new entity types in Drupal 8 and who possibilities they open up.&lt;/p&gt;
+
+&lt;p&gt;Come to find out many tools that can add flexibility to your site building experience.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ted Bowman&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 21:13:54 +0000</pubDate>
+ <dc:creator>Ted Bowman</dc:creator>
+ <guid isPermaLink="false">431 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/entities-bundles-and-fields-you-need-understand#comments</comments>
+</item>
+<item>
+ <title>An Introduction to using Features, Drush, and Git</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/introduction-using-features-drush-and-git</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Are you making changes such as creating Views, configuring content types or saving settings forms on your live Drupal site? If so you probably already know it is easy to make mistakes that cause big problems on your site.&lt;/p&gt;
+
+&lt;p&gt;This session will introduce the Features module which will allow you to make these configuration settings on your local development environment and then easily deploy them to your live site.&lt;/p&gt;
+
+&lt;p&gt;After the introduction to the Features module we will look at how it becomes even more powerful when combined with Drush and Git for version control.&lt;/p&gt;
+
+&lt;p&gt;Using Features, Drush, and Git will make life much easier for multiple developers working on single Drupal site. &amp;nbsp;The tools methods learned in this session can be used in any Drupal hosting environment including Pantheon and Acquia.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ted Bowman&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 21:02:42 +0000</pubDate>
+ <dc:creator>Ted Bowman</dc:creator>
+ <guid isPermaLink="false">426 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/introduction-using-features-drush-and-git#comments</comments>
+</item>
+<item>
+ <title>Using Media, Picture, and Focal Point modules</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/using-media-picture-and-focal-point-modules</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We&#039;ll discuss using the just-about-ready-for-primetime 2.x version of &lt;a href=&quot;https://www.drupal.org/project/media&quot;&gt;the Media module&lt;/a&gt;, in concert with the Drupal 8-ready &lt;a href=&quot;https://www.drupal.org/project/picture&quot;&gt;Picture module&lt;/a&gt;, mobile-friendly &lt;a href=&quot;https://www.drupal.org/project/breakpoints&quot;&gt;Breakpoints module&lt;/a&gt;,&amp;nbsp;and the easy-to-use &lt;a href=&quot;https://www.drupal.org/project/focal_point&quot;&gt;Focal Point module&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With this combo, your users can have an easier time managing their image assets, optimizing images, and presenting them&amp;nbsp;in a mobile-ready format.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/05Dcnj2015MediaPictureFocalPoint&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://www.drupalcampnj.org/sites/default/files/slides/using_media_picture_and_focal_point.pages_.pdf&quot; type=&quot;application/pdf; length=2630230&quot;&gt;using_media_picture_and_focal_point.pages_.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;byron veale&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 18:14:57 +0000</pubDate>
+ <dc:creator>byron veale</dc:creator>
+ <guid isPermaLink="false">391 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/using-media-picture-and-focal-point-modules#comments</comments>
+</item>
+<item>
+ <title>Working with field collections</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/working-field-collections</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Using &lt;a href=&quot;https://www.drupal.org/project/field_collection&quot;&gt;field collections&lt;/a&gt; can make it easier for your users to add unlimited &quot;grouped&quot; content to their nodes. Through a single field-entry on the node edit page, users could add:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&quot;people&quot; information, with fields for name, e-mail, phone, and address&lt;/li&gt;
+	&lt;li&gt;&quot;building&quot; information, including building name, address, and category (high-rise, parking garage, etc.)&lt;/li&gt;
+	&lt;li&gt;or any info that&#039;s too small for the trouble of using &lt;a href=&quot;https://www.drupal.org/project/entityreference&quot;&gt;entity reference&lt;/a&gt; or something similar, but needs more than a single text field to be really useful (and needs to allow for multiple entries).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We&#039;ll also discuss &lt;a href=&quot;https://www.drupal.org/project/field_collection_views&quot;&gt;how to create custom formats&lt;/a&gt; for your field collections.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;byron veale&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 18:01:25 +0000</pubDate>
+ <dc:creator>byron veale</dc:creator>
+ <guid isPermaLink="false">386 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/working-field-collections#comments</comments>
+</item>
+<item>
+ <title>5 Top Drupal Innovations You Can&#039;t Live Without</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/5-top-drupal-innovations-you-cant-live-without</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/Demuth-Figure5InGold.jpg?itok=cnpKm9ui&quot; width=&quot;300&quot; height=&quot;364&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Now that Drupal 7 has reach full maturity and perhaps entering into it&#039;s Autumn years we&#039;re able to take full stock of Drupal 7 features that have taken off and a few that fell flat. This presentation will explore the most valuable innovations in Drupal 7 and offer examples illustrating why these features have become so valuable. We&#039;ll also take a look at how today&#039;s most valuable features will fair in the upcoming release of Drupal 8.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drupal 7 Innovation we&#039;ll be exploring&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Entities&lt;/li&gt;
+	&lt;li&gt;Displays&lt;/li&gt;
+	&lt;li&gt;Media&lt;/li&gt;
+	&lt;li&gt;Views&lt;/li&gt;
+	&lt;li&gt;Rules&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Session Objectives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Identify and demonstrate the most useful tools introduced in Drupal 7&lt;/li&gt;
+	&lt;li&gt;Offer tips on how to utilize Drupal 7 Innovations to build great web sites&lt;/li&gt;
+	&lt;li&gt;Show how these innovations will be affected by the pending Drupal 8 release&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/06Dcnj2015FiveTopDrupalInnovations&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Daniel Schiavone&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 15:35:55 +0000</pubDate>
+ <dc:creator>Daniel Schiavone</dc:creator>
+ <guid isPermaLink="false">376 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/5-top-drupal-innovations-you-cant-live-without#comments</comments>
+</item>
+<item>
+ <title>Perfecting Menus, Breadcrumbs and Paths</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/perfecting-menus-breadcrumbs-and-paths</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Menus, breadcrumbs, and path aliases have been core features since anyone can remember. Yet the core functionality is still pretty bad.&lt;/p&gt;
+
+&lt;p&gt;I&#039;m a believer that:&lt;/p&gt;
+
+&lt;p&gt;- Beautifully structured URLs are an important part of your site&#039;s design&amp;nbsp;&lt;br /&gt;
+- You should almost always include breadcrumbs and they should always be correct&amp;nbsp;&lt;br /&gt;
+- You can display one breadcrumb and one path, and they should always be in harmony (two formats of the same structure)&lt;br /&gt;
+- A site&#039;s navigation should all fit into a single tree&lt;br /&gt;
+- The menu position, breadcrumb, and URL should all be in harmony within that one tree&lt;br /&gt;
+- A URL should mimic a real directory structure, and be navigable&lt;br /&gt;
+- If you have a page with more than one path or menu position, one path and menu position should be canonical&lt;/p&gt;
+
+&lt;p&gt;For many years I&#039;ve fought with core&#039;s handling of paths, menus and breadcrumbs as it does not seem to support my beliefs. I&#039;ve tried many, many different approaches. Finally I&#039;m happy with my set of configuration, modules, core patches and philosophy, and would like to spread the technique as well as the passion for perfection in this critical aspect of your projects.&lt;/p&gt;
+
+&lt;p&gt;Slides:&amp;nbsp;&lt;a href=&quot;http://jodyhamilton.github.io/menus-n-paths-slides/menus-n-paths.html&quot;&gt;http://jodyhamilton.github.io/menus-n-paths-slides/menus-n-paths.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/16Dcnj2015MenusBreadcrumbsPaths&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jody Hamilton&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Jan 2015 15:07:38 +0000</pubDate>
+ <dc:creator>Jody Hamilton</dc:creator>
+ <guid isPermaLink="false">336 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/perfecting-menus-breadcrumbs-and-paths#comments</comments>
+</item>
+<item>
+ <title>Views Demystified </title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/views-demystified</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The VIEWS module is powerful. With it you can create dynamic pages, blocks, feeds, and more!&lt;br /&gt;
+The VIEWS module can seem mystic at times.&lt;br /&gt;
+Let&#039;s&amp;nbsp;DEMYSTIFY VIEWS!&lt;/p&gt;
+
+&lt;p&gt;Join me as we spend some time in the most powerful and complex user interface that Drupal offers. You NEED the power of Views and you&#039;re gong to get it!&lt;/p&gt;
+
+&lt;p&gt;Together we will use views to:&lt;br /&gt;
+a] Build a listing page of nodes&lt;br /&gt;
+b] Build filtering functionality so that users can limit and control the list of content that is created by the View.&lt;br /&gt;
+c] Build a simple block.&lt;br /&gt;
+d] Build a block which contains the node author&#039;s picture so that it shows on every article.&lt;br /&gt;
+e] Some Q-n-A time to satisfy your Views questions!&lt;/p&gt;
+
+&lt;p&gt;If you have questions about, this session, me, or Drupal in general: &lt;a href=&quot;http://dougvann.com/contact&quot; target=&quot;_blank&quot;&gt;http://dougvann.com/contact&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/17Dcnj2015ViewsDemystified&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Doug Vann&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 27 Dec 2014 18:01:23 +0000</pubDate>
+ <dc:creator>Doug Vann</dc:creator>
+ <guid isPermaLink="false">241 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/views-demystified#comments</comments>
+</item>
+<item>
+ <title>10 New Things You Can Do with Drupal 8 Out-of-the-Box</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/10-new-things-you-can-do-drupal-8-out-box</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you&#039;re a Drupal site builder, now&#039;s a great time to install Drupal 8 and start playing around with it and testing it out. You&#039;ve probably heard that Drupal 8 includes Views in core, but what other new features and improvements does it come with?&lt;/p&gt;
+
+&lt;p&gt;In this session, I&#039;ll talk about 10 new things for site builders in Drupal 8. This includes new features, modules, and user interface improvements that come out-of-the-box. You&#039;ll get a nice demo of each feature and a discussion of how it will change the way we do things in Drupal 8.&lt;/p&gt;
+
+&lt;p&gt;You can get the slides on &lt;a href=&quot;http://www.slideshare.net/evolvingweb/10-new-things-you-can-do-with-drupal-8-outofthebox&quot;&gt;slideshare&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/09Dcnj2015TenNewThingsInDrupal8&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Suzanne Dergacheva&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 22 Dec 2014 20:47:51 +0000</pubDate>
+ <dc:creator>Suzanne Dergacheva</dc:creator>
+ <guid isPermaLink="false">221 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/10-new-things-you-can-do-drupal-8-out-box#comments</comments>
+</item>
+<item>
+ <title>Rules: Duct Tape for Drupal</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/rules-duct-tape-drupal</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;There is a mantra in Drupal, &quot;there&#039;s a module for that&quot;; many times you need one little piece of functionality that&#039;s not provided by a module. Instead of learning to write code, you can use the Rules module - the duct tape of Drupal - to build new features and business logic.&lt;/p&gt;
+
+&lt;p&gt;Rules can be immensely useful for Intranet websites, or sites with complicated sets of permissions and publishing workflows. It is also used by default in Drupal Commerce sites to manage the taxes, discounts and payment types.&lt;/p&gt;
+
+&lt;p&gt;This session will provide you with a formula you can apply to decide when to use rules and a system for asking the right questions before you sit down to create a rule, and how to find some examples of people using rules for similar purposes. Finally, we will cover some excellent modules that provide extra actions and conditions for rules that can be helpful in specialized sites.&lt;/p&gt;
+
+&lt;p&gt;For Slides, check http://slides.com/ryanprice - I am editing them to add a few things we talked about during the session, and I will upload a PDF here soon.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/12Dcnj2015RulesDuctTapeForDrupal&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://www.drupalcampnj.org/sites/default/files/slides/rules-duct-tape-for-drupal.pdf&quot; type=&quot;application/pdf; length=25887680&quot;&gt;rules-duct-tape-for-drupal.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ryan Price&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/site-building&quot;&gt;Site Building&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 22 Dec 2014 16:21:23 +0000</pubDate>
+ <dc:creator>Ryan Price</dc:creator>
+ <guid isPermaLink="false">216 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/rules-duct-tape-drupal#comments</comments>
+</item>
+</channel>
+</rss>

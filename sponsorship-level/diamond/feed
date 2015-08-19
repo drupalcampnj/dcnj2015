@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.drupalcampnj.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp NJ - Diamond</title>
+ <link>https://www.drupalcampnj.org/sponsorship-level/diamond</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Blink Reaction</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sponsors/blink-reaction</link>
+ <description>&lt;div class=&quot;field field-name-field-sponsor-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div&gt;&lt;strong&gt;Digital Experiences That Deliver Results.&lt;/strong&gt;&amp;nbsp;We are an open source strategy, development and training company, specializing in Enterprise Drupal. You’ll love more than the experience, you’ll love the results.&lt;/div&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div&gt;Our services include:&lt;/div&gt;
+
+&lt;div&gt;
+&lt;ul&gt;
+	&lt;li&gt;Portfolio Maintenance&lt;/li&gt;
+	&lt;li&gt;Migration&lt;/li&gt;
+	&lt;li&gt;Engagement&lt;/li&gt;
+	&lt;li&gt;Training&lt;/li&gt;
+	&lt;li&gt;Platform&lt;/li&gt;
+	&lt;li&gt;Experience Design&lt;/li&gt;
+	&lt;li&gt;Drupal Development&lt;/li&gt;
+	&lt;li&gt;Drupal Architecture&lt;/li&gt;
+	&lt;li&gt;Drupal Best Practices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-logo field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/BR_Horizontal_RGB_%C6%92.png&quot; width=&quot;2781&quot; height=&quot;495&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-url field-type-link-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sponsor URL:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.blinkreaction.com&quot; target=&quot;_blank&quot;&gt;www.blinkreaction.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-twitter-url field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://twitter.com/blinkreaction&quot;&gt;@BlinkReaction&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-sponsorship-level field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sponsorship Level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsorship-level/diamond&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Diamond&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 12 Nov 2014 02:58:34 +0000</pubDate>
+ <dc:creator>teamdcnj</dc:creator>
+ <guid isPermaLink="false">51 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sponsors/blink-reaction#comments</comments>
+</item>
+</channel>
+</rss>

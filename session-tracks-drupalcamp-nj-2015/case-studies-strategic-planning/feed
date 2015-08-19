@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.drupalcampnj.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp NJ - Case Studies &amp; Strategic Planning</title>
+ <link>https://www.drupalcampnj.org/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Leveraging Drupal for the Greater Good:  What Nonprofits Need to Know </title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/leveraging-drupal-greater-good-what-nonprofits-need-know</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Many nonprofit organizations use&amp;nbsp;Drupal&amp;nbsp;to run their web sites, and it allows them tremendous power and freedom; it also fails them in many ways if they are not prepared to manage a project before and after launch. There is a constellation of tools to help you make a great site that tells the story of your&amp;nbsp;organization and its work, find supporters, and raise funds. But how do you pull it all together into a coherent web site&amp;nbsp;that really serves your needs? We&#039;ll talk about ways to use&amp;nbsp;Drupal&amp;nbsp;for good, and what you need to avoid along the way.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Marcus Iannozzi&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 06 Jan 2015 12:51:40 +0000</pubDate>
+ <dc:creator>Marcus Iannozzi</dc:creator>
+ <guid isPermaLink="false">506 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/leveraging-drupal-greater-good-what-nonprofits-need-know#comments</comments>
+</item>
+<item>
+ <title>A Case Study in Automation</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/case-study-automation</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/pie-chart.png?itok=HEP-_0tV&quot; width=&quot;480&quot; height=&quot;294&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;In this talk I&#039;ll go over all of the different types of automation needed to keep insane project scope high (via &lt;a href=&quot;http://elmsln.org&quot;&gt;ELMS Learning Network&lt;/a&gt;) while keeping teams light weight and small. This will be a case study with practical examples of how you can use the following to automate all the things and eliminate the &lt;s&gt;human race&lt;/s&gt; &lt;s&gt;people&lt;/s&gt; grrr... no that was right, people.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://jenkins-ci.org&quot;&gt;Jenkins&lt;/a&gt; (to manage deployments)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://travis-ci.org/btopro/elmsln&quot;&gt;Travis CI&lt;/a&gt;&amp;nbsp;(Github, webhooks, hooks, open / continuous build process)&lt;/li&gt;
+	&lt;li&gt;Slack / Trello for project management (integrated webhooks)&lt;/li&gt;
+	&lt;li&gt;Git (&lt;a href=&quot;http://github.com/btopro/elmsln&quot;&gt;Github&lt;/a&gt;, Prehooks, &lt;a href=&quot;http://drupal.org&quot;&gt;drupal.org&lt;/a&gt;, and when to use submodules vs nested projects)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://hubdrop.org&quot;&gt;Hubdrop&lt;/a&gt; (to bridge github and drupal.org)&lt;/li&gt;
+	&lt;li&gt;Galaxy /&amp;nbsp;&lt;a href=&quot;http://drupal.org/project/dslm&quot;&gt;DSLM&lt;/a&gt; for better optimized, clustered multi-sites&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.drupal.org/project/drush_recipes&quot;&gt;Drush Recipes&lt;/a&gt; to automating all the drush&#039;es as well as deployment routines and building&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/btopro/elmsln/tree/master/scripts&quot;&gt;Bash&lt;/a&gt; for some nasty fun chain automation / installation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;This will show examples of how you can use all of these tools in your site builds through the context of how I use them every day. &lt;a href=&quot;http://elmsln.org&quot;&gt;ELMS Learning Network&lt;/a&gt;&amp;nbsp;has the crazy goal of providing a RESTful network of sites that acting together form a course experience. This allows for customized ecosystems per course (or college or whatever really) that while densely complex, always follows a design pattern that keeps it managable by a very small team. &amp;nbsp;I&#039;ve had to learn all the technologies mentioned above, as well as invent my own in the form of Drush Recipes, in order to keep 100s and theoretical 1000s of drupal sites across multiple ELMSLN deployments all maintainable by almost no one (well, the robots largely help with that).&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Come see how me, a collegue and our buddies Travis and Jenkins help tackle a rather insane use-case. Hopefully you can take away less that ELMSLN is crazy train and more of the tools and different ways you can integrate them all together through practical examples.&lt;/p&gt;
+
+&lt;h3&gt;Background infomation&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=-DUo4StA8tY&amp;amp;list=PLJQupiji7J5cK0RIbJNXVw0ODn3AQDANe&quot;&gt;Watch &quot;ELMSLN doodles: Understanding ELMSLN&quot;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://btopro.wordpress.com/2013/08/18/elms-learning-network-design-philosophy-theory/&quot;&gt;Read ELMSLN Philosophy/Theory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: This is kind of like a developer centric Case Study though it would still be beneficial for non-sys admins to see whats possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/14Dcnj2015CaseStudyInAutomation&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;&quot; title=&quot;application/vnd.ms-powerpoint&quot; src=&quot;/modules/file/icons/x-office-presentation.png&quot; /&gt; &lt;a href=&quot;https://www.drupalcampnj.org/sites/default/files/slides/automation-case-study.ppt&quot; type=&quot;application/vnd.ms-powerpoint; length=24573785&quot;&gt;automation-case-study.ppt&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;btopro&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 22:14:50 +0000</pubDate>
+ <dc:creator>btopro</dc:creator>
+ <guid isPermaLink="false">476 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/case-study-automation#comments</comments>
+</item>
+<item>
+ <title>Project Management Strategies for Successful Drupal Projects</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/project-management-strategies-successful-drupal-projects</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Discover a strategy for ensuring successful outcomes of Drupal projects of any size. &quot;We don&#039;t have to manage our Drupal projects differently; Drupal allows us to manage them in different and more efficient ways&quot; is an important statement. In addition to being a powerful Web Content Management System, Drupal is an incredible development framework allowing you to use thousands of existing tools (modules) to speed the development of your projects.&lt;/p&gt;
+
+&lt;p&gt;This session will quickly review common Project Management strategies, as well as go more in depth into how expanding your knowledge of Drupal will require you to change some of those existing practices. We will not be promoting any specific methodology (Waterfall, Agile etc), however there are of course vital components of each that are necessary for completing a project.&lt;/p&gt;
+
+&lt;p&gt;The most important step in ensuring a successful project is defining what success actually means to the stakeholders. This session will be successful if everyone leaves with the understanding of how outcomes of past projects could have been changed, or at least one thing they&#039;ll change in future projects.&lt;/p&gt;
+
+
+
+
+Intended audience:&amp;nbsp;
+
+&lt;p&gt;This session is geared towards anyone who is ready to start a Drupal project or towards those coming off a not-so-successful one. Project Managers, Drupal business owners, Business Analysts, Drupal team leads, or anyone involved in managing or constructing Drupal project teams.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Matthew Dorman&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 20:31:03 +0000</pubDate>
+ <dc:creator>Matthew Dorman</dc:creator>
+ <guid isPermaLink="false">421 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/project-management-strategies-successful-drupal-projects#comments</comments>
+</item>
+<item>
+ <title>Higher Education &amp; Drupal: Building Stronger Communities with Omni Channel Communications</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/higher-education-drupal-building-stronger-communities-omni-channel</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/omni-channel.png?itok=suJeZg0y&quot; width=&quot;480&quot; height=&quot;189&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Omni channel communications can help school communities build effective, authentic relationships by engaging students and community members in real-time across multiple platforms. Explore how you can leverage affordable, open source technologies like Drupal to create innovative channel campaigns that foster community building and support strategic goals.&lt;/p&gt;
+
+&lt;p&gt;In this session, you’ll learn about:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;How omni channel communications strengthens marketing, student recruitment, fundraising and alumni relations&lt;/li&gt;
+	&lt;li&gt;Increasing student satisfaction through omni-channel delivery&lt;/li&gt;
+	&lt;li&gt;Unifying digital, print and on-site messaging and distribution&lt;/li&gt;
+	&lt;li&gt;How to quickly build an omni channel solution with open source technology&lt;/li&gt;
+	&lt;li&gt;How Instagram, Snapchat and other channels connect your constituencies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Presented previously at Drupalcamp Atlanta in 2014, join Blink Reaction Drupal Evangelist Ray Saltini as he guides participants through a practical and insightful disscussion around this important topic.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ray Saltini&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 20:19:58 +0000</pubDate>
+ <dc:creator>Ray Saltini</dc:creator>
+ <guid isPermaLink="false">416 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/higher-education-drupal-building-stronger-communities-omni-channel#comments</comments>
+</item>
+<item>
+ <title>Drupal for Project Managers: What you need to know to be awesome (and beat the curve).</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drupal-project-managers-what-you-need-know-be-awesome-and-beat-curve</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/projectLifecycleSentiment.png?itok=izmaSmKu&quot; width=&quot;480&quot; height=&quot;281&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal Development is a specialty, so is Drupal Project Management.&lt;/p&gt;
+
+&lt;p&gt;Whether you are a seasoned PM new to Drupal or have just been volunteered to manage a project in your &#039;spare time,&#039; what do you need to know about Drupal to help you manage projects more successfully?&lt;/p&gt;
+
+&lt;p&gt;Presented previously at NYC Camp and Drupalcamp Atlanta in 2014, join Blink Reaction Drupal Evangelist Ray Saltini as he guides participants through a practical and insightful disscussion around this critical topic.&lt;/p&gt;
+
+&lt;p&gt;This session will introduce you to:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;the Drupal lifecycle adoption curve&lt;/li&gt;
+	&lt;li&gt;Drupal application and community fundamentals&lt;/li&gt;
+	&lt;li&gt;methods for aligning your project plan with Drupal&lt;/li&gt;
+	&lt;li&gt;development best practice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/02Dcnj2015DrupalForProjectManagers&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ray Saltini&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 19:30:18 +0000</pubDate>
+ <dc:creator>Ray Saltini</dc:creator>
+ <guid isPermaLink="false">401 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/drupal-project-managers-what-you-need-know-be-awesome-and-beat-curve#comments</comments>
+</item>
+<item>
+ <title>The Path To A Website</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/path-website</link>
+ <description>&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.drupalcampnj.org/sites/default/files/styles/large/public/Chris%20Cane_11final.jpg?itok=sx_0ECyP&quot; width=&quot;480&quot; height=&quot;316&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Team leaders embarking on new web projects need a clear path forward and a high-level vision of the project’s goals and measures of success in order to continue to move forward efficiently. &amp;nbsp;Gathering website development teams, content creators and content consumers together and building consensus within a prescribed timeframe can be challenging! &amp;nbsp;Managing the expectations of all groups is critical to the success of the project.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Christopher Cane&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 19:22:39 +0000</pubDate>
+ <dc:creator>Christopher Cane</dc:creator>
+ <guid isPermaLink="false">396 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/path-website#comments</comments>
+</item>
+<item>
+ <title>Bailing out a sinking ship: A case study in &#039;inherited&#039; sites.</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/bailing-out-sinking-ship-case-study-inherited-sites</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;After inheriting a derelict project, we managed to diagnose all of the structural issues within the site, and rebuilt it as a functional medical data repository. We will investigate the process of rehabilitate a functional and working data platform from the ashes of a failed project. We will discuss, with specific examples, techniques, resources and problems that have been encountered while developing this application:&lt;br /&gt;
+- Performing an audit of the site and determining the viability of a project.&lt;br /&gt;
+- Identifying core modifications and correcting them.&lt;br /&gt;
+- Restructuring files within the codebase to conform to drupal standards&lt;br /&gt;
+- Determining MVP objectives to get site launched in shortest time&lt;br /&gt;
+- Rebuilding deployment strategies.&lt;br /&gt;
+- Identifying site security issues, and plugging the holes.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Nicholas Hepner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 05 Jan 2015 01:49:10 +0000</pubDate>
+ <dc:creator>Nicholas Hepner</dc:creator>
+ <guid isPermaLink="false">366 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/bailing-out-sinking-ship-case-study-inherited-sites#comments</comments>
+</item>
+<item>
+ <title>LiteSpeed Web Server vs. Apache for High-Traffic Drupal Sites</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/litespeed-web-server-vs-apache-high-traffic-drupal-sites</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;You build a site, set it up, and everything&#039;s going fine. Then usage increases, the sites starts to lag, and you (and/or your customer) are looking at tremendously expensive server upgrades… That&#039;s how it works, right?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It doesn&#039;t have to be that way.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;LiteSpeed Web Server (LSWS) is the world&#039;s only high-performance Apache drop-in replacement —&amp;nbsp;&lt;strong&gt;LSWS takes over for Apache at the push of a button and serves far more traffic while cutting server load&lt;/strong&gt;. Many hosting providers, sysadmins, and developers use LSWS to host high-traffic Drupal (and WordPress, Joomla!, etc.) sites without spending an arm and a leg on hardware or support.&lt;/p&gt;
+
+&lt;p&gt;This presentation will introduce LiteSpeed Web Server and cover the following topics:&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;A quick case study showing the benefits a real high-traffic Drupal site has seen from switching to LSWS.&lt;/li&gt;
+	&lt;li&gt;Overview of benchmarks (LSWS vs. NGINX vs. Apache)&lt;/li&gt;
+	&lt;li&gt;How does LSWS work? (It cuts load, decreases RAM usage, and improves speed by serving traffic with fewer processes.)&lt;/li&gt;
+	&lt;li&gt;What bottlenecks can it help with? (Plus a quick &amp;nbsp;tools to figure out where your bottlenecks are).&lt;/li&gt;
+	&lt;li&gt;5 minute installation demo. (On a Drupal site with cPanel.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Please feel free to &lt;a href=&quot;mailto:marmstrong@litespeedtech.com?subject=Re%3A%20DrupalCamp%20NJ%20LSWS%20Session&quot;&gt;contact Michael&lt;/a&gt; if there&#039;s anything else you&#039;d like to see in this presentation.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Michael Armstrong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 23 Dec 2014 16:53:49 +0000</pubDate>
+ <dc:creator>Michael Armstrong</dc:creator>
+ <guid isPermaLink="false">231 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/litespeed-web-server-vs-apache-high-traffic-drupal-sites#comments</comments>
+</item>
+<item>
+ <title>Web Hosting Technology Review</title>
+ <link>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/web-hosting-technology-review</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;What is all that technology hosts advertise? And what can you, the Drupal developer/designer, look for to get the best speed for your sites?&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Speed is of paramount importance when choosing a host. Research shows that a 1 second delay in page-loading time can cost a site 7% of conversions. (That&#039;s $375,000/year for a site with 100,000 hits per month and an average sale of $75.) Our tests show that even some of the world&#039;s top Drupal hosts do not have optimal speed on their home pages.&lt;/p&gt;
+
+&lt;p&gt;In this presentation, we will give you the knowledge to do better. We will take you through the vast array of technologies used by web hosting providers to give you better performance and stability (as well as some other criteria every shared hosting customer should know about). Attendees will leave with a more nuanced understanding of hosting technologies and better able to make decisions. The discussion will be geared towards users of shared/reseller hosting, though much of it is also applicable to building your own VPS/dedicated solution.&lt;/p&gt;
+
+&lt;p&gt;We will cover:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;A quick glance at the data that shows, yes, speed is of paramount importance&lt;/li&gt;
+	&lt;li&gt;Benchmarks for the world&#039;s top Drupal hosts&lt;/li&gt;
+	&lt;li&gt;Hardware
+	&lt;ul&gt;
+		&lt;li&gt;SSDs (What are they good for? When will they help?)&lt;/li&gt;
+		&lt;li&gt;Cloud/cluster setup&lt;/li&gt;
+		&lt;li&gt;SAN&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Resources
+	&lt;ul&gt;
+		&lt;li&gt;Disk space (How much do you need?)&lt;/li&gt;
+		&lt;li&gt;CPU/RAM (When listed)&lt;/li&gt;
+		&lt;li&gt;What does unlimited mean? (Nothing.)&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Software
+	&lt;ul&gt;
+		&lt;li&gt;Control panels (cPanel, Plesk, DirectAdmin, proprietary panels)&lt;/li&gt;
+		&lt;li&gt;CloudLinux (and similar setups)&lt;/li&gt;
+		&lt;li&gt;Web Servers: Apache vs. LiteSpeed vs. NGINX&lt;/li&gt;
+		&lt;li&gt;Page caching (Varnish, NGINX, SuperCacher)&lt;/li&gt;
+		&lt;li&gt;Backups (R1Soft, Bacula, Acronis)&lt;/li&gt;
+		&lt;li&gt;One-click installers (Fantastico, Softaculous)&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Services
+	&lt;ul&gt;
+		&lt;li&gt;CDNs&lt;/li&gt;
+		&lt;li&gt;Anti-spam (Spam Experts, Postini)&lt;/li&gt;
+		&lt;li&gt;Anti-malware (StopTheHacker, SiteLock)&lt;/li&gt;
+		&lt;li&gt;Website builders&lt;/li&gt;
+		&lt;li&gt;Support&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Where to look for hosting deals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;30&quot; src=&quot;https://archive.org/embed/19Dcnj2015WebHostingTechnology&quot; width=&quot;500&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speakers field-type-entityreference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Michael Armstrong&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-og-vocabulary field-type-entityreference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;Session Tracks (DrupalCamp NJ 2015)&lt;/h3&gt;&lt;ul&gt;&lt;li class=&quot;first last&quot;&gt;&lt;a href=&quot;/session-tracks-drupalcamp-nj-2015/case-studies-strategic-planning&quot;&gt;Case Studies &amp;amp; Strategic Planning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 23 Dec 2014 15:04:43 +0000</pubDate>
+ <dc:creator>Michael Armstrong</dc:creator>
+ <guid isPermaLink="false">226 at https://www.drupalcampnj.org</guid>
+ <comments>https://www.drupalcampnj.org/drupalcamp-nj-2015/sessions/web-hosting-technology-review#comments</comments>
+</item>
+</channel>
+</rss>
